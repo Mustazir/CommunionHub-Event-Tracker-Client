@@ -1,0 +1,35 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "title": "Interfaith Harmony Conference",
+        "date": "2025-03-15",
+        "time": "10:00 AM",
+        "location": "Dhaka Convention Center",
+        "category": "Religious",
+        "description": "An event to promote peace and understanding between different faith communities.",
+        "image": "https://example.com/event1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Charity Food Drive",
+        "date": "2025-03-20",
+        "time": "2:00 PM",
+        "location": "Rangpur Community Hall",
+        "category": "Charity",
+        "description": "Join us in distributing food to those in need and making a positive impact.",
+        "image": "https://example.com/event2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Social Networking Meetup",
+        "date": "2025-04-05",
+        "time": "5:00 PM",
+        "location": "Dhaka Innovation Hub",
+        "category": "Social",
+        "description": "A casual meetup for professionals and students to network and share ideas.",
+        "image": "https://example.com/event3.jpg"
+      }
+    ]
+  }
+  
